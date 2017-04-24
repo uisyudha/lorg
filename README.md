@@ -5,29 +5,15 @@ Web server log files are the primary source of information to reconstruct the co
 
 **Pre-alpha. Previously developed as [WebForensik](http://sourceforge.net/projects/webforensik/).**
 
-### Requirements
-
-In order to run LORG, you need PHP and the following PHP extensions:
-
-* pcntl
-* simplexml
-* filter
-* mbstring
-* ctype
-
-To install PHP and this extensions on FreeBSD systems, from binary packages, you can run (for instance for PHP version 5.6):
-
-```
-# pkg install php56 php56-pcntl php56-simplexml php56-filter php56-mbstring php56-ctype
-```
-
-Also consider raising `memory_limit` in `php.ini` to avoid errors when parsing large files.
+Minor bug fix summerization for php 7, original tools from:
+https://github.com/jensvoid/lorg
+Go to jensvoid for requierement installation
 
 ### Getting started
 
 The easiest way to install LORG is to clone the GitHub repository:
 
-    $ git clone https://github.com/jensvoid/lorg
+    $ git clone https://github.com/uisyudha/lorg
 
 To get started, please read the documentation in the [Wiki](https://github.com/jensvoid/lorg/wiki/). For the impatient, try something like:
 
