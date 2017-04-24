@@ -58,7 +58,6 @@ Usage: lorg [-i input_type] [-o output_type] [-d detect_mode]
 ```
 
 ### Additional Resources
-
 * Conference Presentation [2013]: [Web Application Forensics - Slides for a Talk at Hack in Paris 2013](http://homepage.ruhr-uni-bochum.de/jens.mueller-2/publications/2013-hip-conference-slides.pdf)  
   [![WebAppForensics Talk @HiP2013](https://github.com/jensvoid/lorg/blob/gh-pages/images/hip2013-video.jpg?raw=true)](https://www.youtube.com/watch?v=6N7WjZJ1ytY)
 * Bachelor Thesis [2012]: [Implementation of a Framework for Advanced HTTPD Logfile Security Analysis](http://homepage.ruhr-uni-bochum.de/jens.mueller-2/publications/2012-web-application-forensics.pdf)
