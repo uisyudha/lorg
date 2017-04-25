@@ -13,7 +13,7 @@ Go to jensvoid for requierement installation
 
 The easiest way to install LORG is to clone the GitHub repository:
 
-    $ git clone https://github.com/uisyudha/lorg
+    $ git clone https://github.com/uisyudha/lorg.git
 
 To get started, please read the documentation in the [Wiki](https://github.com/jensvoid/lorg/wiki/). For the impatient, try something like:
 
